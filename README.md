@@ -1,2 +1,3 @@
 # Hack-Chrome-Dino-Game
-hey, This is simple project  which just have to copy in google console written in console
+No need to use any IDE or TEXT EDITOR for this . Just go to google --> search"chrome://dino" --> right click and click on inspect --> Console on up --> Copy the code
+
